@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Vetit
 
-You can use the [editor on GitHub](https://github.com/MinistryofPlenty/Vetit/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Vetit is a site that is a combination of reddit and patreon, where there are monetary mechanisms to incentivize good content and discussion and disincentivize poor/malicious user actions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Goals
 
-### Markdown
+### Monetarily Incentivize
+1. Good original content
+2. Good and nuanced discussion
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Monetarily Disincentivize
+1. kKarma whoring
+2. Trolling
+3. Re-posting/shit posting
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MinistryofPlenty/Vetit/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
